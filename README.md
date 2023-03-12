@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudo-nilesh
 - 👀 I’m interested in AWS, DevOps, Chef, Jenkins, Bash, Python
-- 🌱 I’m currently learning Chef and Python
-- 💞️ I’m looking to collaborate on Chef 
+- 🌱 I’m currently learning Dynatrace, API and Python
+- 💞️ I’m looking to collaborate on Dyantarce 
 - 📫 How to reach me ...
 
 <!---
